@@ -4,8 +4,7 @@
 ![modrinth](https://badges.moddingx.org/modrinth/downloads/dkcraft-minecraft-2)<br>
 ![modrinth](https://badges.moddingx.org/modrinth/versions/dkcraft-minecraft-2)<br>
 
-## <a href='https://modrinth.com/shader/arnavmcs-shader'><img src='https://avatars.githubusercontent.com/u/67560307' width='23px' height='23px'> [![
-DKCraft : Minecraft 2](https://img.shields.io/badge/ArnavMC's_Shader-Download-blue?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8EAqEiKCkEgSo3B1FgaEFBhF16nzwRhqzqaorZuaPilXyVM4mN1KwvBK&s=10)](https://modrinth.com/shader/arnavmcs-shader) </a>
+## <a href='https://modrinth.com/modpack/dkcraft-minecraft-2'> <img src='https://avatars.githubusercontent.com/u/67560307' width='23px' height='23px'> Download on Modrinth</a>
 
 ![thumbail](https://cdn.modrinth.com/data/cached_images/8f85044e5f7581154964c5dd7e463067b3b6c51a_0.webp)
 
