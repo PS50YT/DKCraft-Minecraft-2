@@ -1,5 +1,10 @@
 # DKCraft: Minecraft 2
 
+[![logo](https://cdn.modrinth.com/data/Jx60FZhN/c7f99490bad90deb2788c8ea4e7239fa3c6d4b81.png)](https://modrinth.com/modpack/dkcraft-minecraft-2)<br>
+![modrinth](https://badges.moddingx.org/modrinth/downloads/dkcraft-minecraft-2)<br>
+![modrinth](https://badges.moddingx.org/modrinth/versions/dkcraft-minecraft-2)<br>
+
+
 ![thumbail](https://cdn.modrinth.com/data/cached_images/8f85044e5f7581154964c5dd7e463067b3b6c51a_0.webp)
 
 **DKCraft: Minecraft 2** is a Minecraft-style modpack is full of adventures, explorations, and challenges.
